@@ -1,4 +1,3 @@
----
 
 # 💱 Conversor de Monedas — Java + Gson + Swing
 
@@ -12,7 +11,7 @@ Convierte fácilmente entre **USD, ARS, BRL, CLP, COP y BOB**, consulta tasas ac
 
 ---
 
-[![Repo](https://img.shields.io/badge/GitHub-%40chatgpt570601-blue?logo=github)](https://github.com/chatgpt570601)
+[![Repo](https://img.shields.io/badge/GitHub-%40TodTete-blue?logo=github)](https://github.com/TodTete)
 ![Java](https://img.shields.io/badge/Java-11%2B-orange?logo=coffeescript)
 ![Maven](https://img.shields.io/badge/Maven-3.8%2B-red?logo=apache-maven)
 ![Gson](https://img.shields.io/badge/Gson-2.11.0-green)
