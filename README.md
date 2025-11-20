@@ -133,7 +133,7 @@ conversor-monedas/
 
 ## 👤 Autor
 
-**Ricardo Vallejo Sanchez**
+**Ricardo Vallejo Sanchez @TodTete**
 💼 Proyecto académico y demostrativo — Alura / Java Challenge
 
 ---
